@@ -1,11 +1,14 @@
 # etc.
 
 ## Overview
-その他いろいろ．  
-テンプレート等があります．
 
-## License
-準備中．
+テンプレートなどその他色々の置き場。
+
+## References
+
+- [countries.csv  |  Dataset Publishing Language  |  Google Developers](https://developers.google.com/public-data/docs/canonical/countries_csv)
+- [dspl/countries.csv at master · google/dspl](https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv)
 
 ## Author
-[haru90](https://github.com/haru90)
+
+[haru](https://haru52.com/)
